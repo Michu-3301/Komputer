@@ -1,10 +1,7 @@
 
 <head>
 	
-	<title>Komponenty komputerowe </title>
-	<meta name="description" content="Serwis prezentuje komponenty komputerowe. Sprawdź, czy znasz je wszystkie" />
-	<meta name="keywords" content="komputery, procesory, karty greficzne, GPU, CPU , płyta główna, ziemniak" />
-	<meta> http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" </meta>
+
 	
 	<style>
 	
