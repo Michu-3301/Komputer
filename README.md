@@ -1,7 +1,6 @@
-<!DOCTYPE HTML>
-<html lang="pl">
+
 <head>
-	<meta> charset="utf-8" </meta>
+	
 	<title>Komponenty komputerowe </title>
 	<meta name="description" content="Serwis prezentuje komponenty komputerowe. Sprawdź, czy znasz je wszystkie" />
 	<meta name="keywords" content="komputery, procesory, karty greficzne, GPU, CPU , płyta główna, ziemniak" />
